@@ -28,16 +28,6 @@
 
 ---
 
-## 🏅 Key Achievements
-
-| Hackathon | Leaderboard | Proof |
-|----------|-------------|-------|
-| 🥈 **Summer Analytics First Hackathon** (Week 2) | **Top 2% - Final Leaderboard** | ![Hackathon1](Assignments/Week2-Summer-Analytics-Hackathon/Hackatho_Position.png) |
-| 🥇 **Nutrition Health Survey - Age Prediction** (Week 4) | **Top 1% - Final Submission** | ![Hackathon2](Assignments/Week4-Age-Group-Ensemble-Classifier/Hackathon_Position.png) |
-
-> 📢 *These hackathons were hosted on Kaggle under the official IITG SA2025 banner.*
-
----
 
 ## 📂 Repository Structure
 
@@ -105,16 +95,3 @@ IITG-Summer-Analytics-2025/
 
 ---
 
-<div align="center">
-  <h3>📬 Let’s Connect</h3>
-  <a href="https://www.linkedin.com/in/mohamedyaser08/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:1ammar.yaser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
----
-
-<div align="center">
-  <strong>⭐ Don't forget to star this repo if you find it helpful. Let's grow together in Data Science! 🚀</strong>
-  <br><br>
-  <em>Made with ❤️ and a lot of Pandas & Caffeine</em>
-</div>
